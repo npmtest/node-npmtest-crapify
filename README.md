@@ -1,6 +1,6 @@
 # npmtest-crapify
 
-#### test coverage for  [crapify (v1.2.0)](https://github.com/bcoe/crapify)  [![npm package](https://img.shields.io/npm/v/npmtest-crapify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crapify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crapify.svg)](https://travis-ci.org/npmtest/node-npmtest-crapify)
+#### basic test coverage for  [crapify (v1.2.0)](https://github.com/bcoe/crapify)  [![npm package](https://img.shields.io/npm/v/npmtest-crapify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crapify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crapify.svg)](https://travis-ci.org/npmtest/node-npmtest-crapify)
 
 #### a proxy for simulating slow, spotty, HTTP connections
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-crapify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-crapify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-crapify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-crapify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-crapify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-crapify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-crapify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-crapify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-crapify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-crapify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-crapify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-crapify/build/coverage.html/index.html)
 
